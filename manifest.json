@@ -1,0 +1,21 @@
+{
+  "name": "TibaGo",
+  "short_name": "TibaGo",
+  "description": "TibaGo offers fast and affordable telemedicine services connecting patients with certified health professionals across Africa for consultations, prescriptions, and personalized health monitoring.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10141a",
+  "theme_color": "#1E88E5",
+  "icons": [
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/wakisha-connect-b4fd9.firebasestorage.app/o/StartupLogos%2Fimg_1780684222919.jpg?alt=media&token=38bf2e10-bd99-43c9-a3e6-fb5b8d1a8116",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/wakisha-connect-b4fd9.firebasestorage.app/o/StartupLogos%2Fimg_1780684222919.jpg?alt=media&token=38bf2e10-bd99-43c9-a3e6-fb5b8d1a8116",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
