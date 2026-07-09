@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tibago.org/sitemap.xml
